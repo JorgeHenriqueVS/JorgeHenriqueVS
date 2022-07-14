@@ -8,7 +8,7 @@ Sou formado em Marketing (2018) pela [Sumaré](https://sumare.edu.br/) e atualme
 
 </br>
 
-![Jorge Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeHenriqueVS&show_icons=true&theme=dracula&count_private=true)
+[![Jorge Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeHenriqueVS&show_icons=true&theme=dracula&count_private=true)](https://www.instagram.com/rickhenriquee_/)
 
 ## Meus contatos:
    
