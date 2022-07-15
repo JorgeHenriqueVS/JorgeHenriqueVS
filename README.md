@@ -4,7 +4,7 @@ Sou o **Jorge Henrique**, moro em São Paulo.
 
 Gosto de assistir anime, ler mangá e jogar xadrez.
 
-Sou formado em Marketing (2018) pela [Sumaré](https://sumare.edu.br/) e atualmente estou em transição de carreira, adquirindo conhecimento da área de tecnologia através dos cursos do [Curso em Vídeo](https://www.cursoemvideo.com/) ministrados pelo professor Gustavo Guanabara.
+Sou formado em Marketing (2018) pela [Sumaré](https://sumare.edu.br/) e atualmente estou em transição de carreira, adquirindo conhecimento da área de tecnologia através dos cursos do [Curso em Vídeo](https://www.cursoemvideo.com/) ministrados pelo Professor Gustavo Guanabara.
 
 </br>
 
